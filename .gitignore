@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+.jupyter/
+.DS_Store
+.history/
+.vscode/

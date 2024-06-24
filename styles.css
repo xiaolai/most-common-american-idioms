@@ -1,0 +1,35 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  margin: 50px;
+  width: 640px;
+}
+p,li {
+  line-height: 1.8em;
+}
+span,
+audio {
+  display: block;
+  margin-top: 0.5em;
+}
+
+strong {
+  color:navy;
+}
+
+em {
+  color: brown;
+}
+
+span.en {
+  font-family: Georgia;
+  font-size: 20px;
+}
+
+span.cn {
+  font-family: Heiti;
+}
+
+audio {
+  height: 2em;
+}
