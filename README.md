@@ -1,7 +1,7 @@
 # Most Common American Idioms (1355)
 
 > [!NOTE]
-> **IMPORTANT: Copyright NOT reserved.**
+> Copyright **NOT** reserved.
 
 This book was created by @xiaolai with the help of ChatGPT and its TTS. The rough code can be found in the notebook: [Idiom_book.ipynb](Idiom_book.ipynb). The program ran for about 5 hours to complete all the work.
 
