@@ -10,7 +10,7 @@ Also, you can download a compiled version from [Baidu NetDisk](https://pan.baidu
 
 > https://pan.baidu.com/s/1zk9XrlIe26aELul2reXhIw?pwd=nqbj
 
-Also, you can use the [Enjoy App](https://1000h.org/enjoy-app/) from the [1000 hour](https://1000h.org) project to practice with the audio files from this book.
+Moreover, you can use the [Enjoy App](https://1000h.org/enjoy-app/) from the [1000 hour](https://1000h.org) project to practice with the audio files from this book.
 
 ---
 
