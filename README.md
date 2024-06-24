@@ -6,6 +6,10 @@ The individual audio files are in the `audio` directory, and another version wit
 
 The final work is available in [Most_Common_American_Idioms.html](Most_Common_American_Idioms.html), and the audios can be played directly from the browser.
 
+Also, you can download a compiled version from [Baidu NetDisk](https://pan.baidu.com/s/1zk9XrlIe26aELul2reXhIw?pwd=nqbj): 
+
+> https://pan.baidu.com/s/1zk9XrlIe26aELul2reXhIw?pwd=nqbj
+
 ---
 
 If you need any further adjustments, please let me know!
