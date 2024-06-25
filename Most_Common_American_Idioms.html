@@ -30057,6 +30057,23 @@ lang="cn">如果你不能说点好话，那就闭嘴吧。</span><audio controls
 told him to <em>zip it</em>.</span> <span
 lang="cn">他差点泄露惊喜，但她赶紧叫他闭嘴。</span><audio controls preload="none"><source src="audio/1355.3.mp3" type="audio/mpeg"></audio></li>
 </ul>
-
+<script>
+	// 音频懒加载
+	document.addEventListener('DOMContentLoaded', function () {
+		var audios = document.querySelectorAll("audio");
+		audios.forEach(function (audio) {
+			var observer = new IntersectionObserver(function (entities) {
+				entities.forEach(function (entity) {
+					if (entity.isIntersecting && entity.target.getAttribute('preload') === 'none') {
+						entity.target.setAttribute('preload', 'auto');
+						observer.unobserve(entity.target);
+					}
+				})
+			}, {
+			})
+			observer.observe(audio);
+		});
+	});
+</script>
 </body>
 </html>
