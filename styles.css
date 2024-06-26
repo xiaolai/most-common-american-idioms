@@ -33,3 +33,28 @@ span.cn {
 audio {
   height: 2em;
 }
+
+/* 设置按钮和内容的基本样式 */
+.button {
+  position: fixed;
+  bottom: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#btnCloseChinese {
+  left: 10px;
+}
+
+#btnCloseExamples {
+  right: 10px;
+}
+
+.fixed-checkboxes {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f9f9f9;
+  padding: 10px;
+  box-sizing: border-box;
+}
